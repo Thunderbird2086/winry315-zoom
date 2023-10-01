@@ -4,17 +4,17 @@
 
 * A macro keyboard with 15 keys and 3 encoders
 
-* Keyboard Maintainer: [Thunderbird2086](https://github.com/Thunderbird2086)
+* Keyboard Maintainer: [Sergey Vlasov](https://github.com/sigprof)
 * Hardware Supported: Macro Keyboard 15 Keys + 3 Knobs
 * Hardware Availability: [AliExpress](https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20220214015758&SearchText=Macro+Keyboard+Knob+15Key+%2B+3+Knob)
 
 Make example for this keyboard (after setting up your build environment):
 
-    make yd3xn15mx:default
+    make winry/winry315:zoom
 
 Flashing example for this keyboard:
 
-    make yd3xn15mx:default:flash
+    make winry/winry315:zoom:flash
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
